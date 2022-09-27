@@ -29,7 +29,7 @@
 
 ## 🎨 Layout
 <div align="center">
- <img alt="Made by tgmarinho" src="https://github.com/IagoAntunes/LojaNatal/blob/master/LojaNatal/LojaNatal.UWP/Assets/christmasshopping.png" width="500">
+
 </div>
 
 ## 🛠 Tecnologias
